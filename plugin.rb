@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require 'htmlentities'
-
 Onebox = Onebox
+
+require 'htmlentities'
 
 module Onebox
   module Engine
