@@ -2,6 +2,8 @@
 
 require 'htmlentities'
 
+Onebox = Onebox
+
 module Onebox
   module Engine
     class BokehDocsOnebox
