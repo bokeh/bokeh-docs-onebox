@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
-Onebox = Onebox
-
 require 'htmlentities'
+
+require_relative "../../lib/onebox"
+
+Onebox = Onebox
 
 module Onebox
   module Engine
