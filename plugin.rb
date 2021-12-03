@@ -1,5 +1,11 @@
 # frozen_string_literal: true
 
+# name: bokeh-docs-onebox
+# about: Onebox engine for Bokeh docs
+# version: 0.1
+# authors: @bryevdv
+# url: https://github.com/bokeh/discourse-bokeh-onebox
+
 require 'htmlentities'
 
 require_relative "../../lib/onebox"
