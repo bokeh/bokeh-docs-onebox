@@ -1,5 +1,5 @@
 # bokeh-docs-onebox
-Discourse Onebox plugin for Bokeh Docs
+Discourse [Onebox](https://github.com/discourse/onebox) plugin for Bokeh Docs
 
 This plugin enables more tailored previews of Bokeh documentation links that end with URL fragments. For example, with the link
 ```
