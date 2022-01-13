@@ -74,7 +74,6 @@ module Onebox
         if (url =~ NARRATIVE_REGEX)
           @data ||= narrative_data
         elsif (url =~ REF_REGEX)
-          puts "LKSFJKLFJLDKJF"
           @data ||= ref_data
         end
       end
